@@ -2,6 +2,7 @@
 	import { max } from 'd3-array';
 	import data from '../data/county_three_parties.csv';
 	import Triangle from '$lib/components/Triangle.svelte';
+	import SmallMultiples from '$lib/components/SmallMultiples.svelte';
 	import Slider from '$lib/components/Slider.svelte';
 
 	const cleaned_data = $derived(
@@ -66,6 +67,14 @@
 	year={selectedYear}
 	globalMaxVoters={globalMaxVoters}
 	trailData={trailData}
+/>
+
+<SmallMultiples
+	data={yearData}
+	year={selectedYear}
+	globalMaxVoters={globalMaxVoters}
+	trailData={trailData}
+	allData={cleaned_data}
 />
 
 <style>
