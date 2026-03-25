@@ -4,6 +4,7 @@
 	import Triangle from '$lib/components/Triangle.svelte';
 	import StateTriangle from '$lib/components/StateTriangle.svelte';
 	import SmallMultiples from '$lib/components/SmallMultiples.svelte';
+	import CountyArrowMap from '$lib/components/CountyArrowMap.svelte';
 	import Slider from '$lib/components/Slider.svelte';
 	import { groupByState } from '$lib/utils/processData.js';
 
@@ -84,6 +85,10 @@
 	year={selectedYear}
 	globalMaxVoters={globalMaxVoters}
 	trailData={trailData}
+	allData={cleaned_data}
+/>
+
+<CountyArrowMap
 	allData={cleaned_data}
 />
 
