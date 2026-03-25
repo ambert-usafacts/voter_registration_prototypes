@@ -18,7 +18,9 @@ Columns: `year`, `state`, `geography_standardized` (county name), `party` (`Demo
 
 ## Utilities
 
-- `src/lib/utils/processData.js` — `groupByCounty(rows)`: pivots flat CSV rows into one object per county with `{ id, county, state, year, dem, rep, other, totalVoters }`. Fractions are already normalized (0–1).
+- `src/lib/utils/processData.js`
+  - `groupByCounty(rows)`: pivots flat CSV rows into one object per county with `{ id, county, state, year, dem, rep, other, totalVoters }`. Fractions are already normalized (0–1).
+  - `groupByState(rows)`: aggregates flat CSV rows into one object per state with `{ id, state, year, dem, rep, other, totalVoters }`. Fractions are computed from summed raw voter counts (not averaged percents), so large counties are weighted correctly.
 - `src/lib/utils/ternary.js` — `barycentricToSVG(dem, rep, other, vertices)`: converts party fractions to SVG (x, y) via weighted vertex sum. `blendColor(dem, rep, other)`: returns a CSS `rgb()` string by linearly interpolating party colors (blue / red / muted purple).
 
 ## Triangle chart (`src/lib/components/Triangle.svelte`)
@@ -37,6 +39,24 @@ Each county is a circle placed via barycentric coordinates (weighted sum of vert
 - `trailData` — flat cleaned rows for all years before the selected year; used to draw per-county `<polyline>` trail paths
 
 **Animation:** `+page.svelte` holds `selectedYear` ($state), a `Slider` (bits-ui, 2016–2026), and a play/pause button. A `$effect` advances the year every 900ms when playing. Trail paths are rendered as thin polylines in each county's blended color (35% opacity) behind the circles.
+
+## State-level triangle (`src/lib/components/StateTriangle.svelte`)
+
+Same layout as `Triangle.svelte` but each dot = one state (aggregated via `groupByState`). Circle area ∝ total state voters. State abbreviation labels rendered as SVG `<text>` below each circle (currently commented out — dots overlap at this scale). Trail paths work identically: one polyline per state showing prior-year positions.
+
+**Props:**
+- `data` — flat cleaned rows for the selected year
+- `year` — display label only
+- `globalMaxStateVoters` — computed on the page as `max(groupByState(cleaned_data), d => d.totalVoters)`; anchors radius scale across years
+- `trailData` — flat cleaned rows for all years before the selected year
+
+**Known issue / next step:** state dots can overlap heavily in the center of the triangle (most states are near the middle). Options to try: force-directed nudging, voronoi-based label placement, or switching to a connected-dot plot where each state is a separate line.
+
+## Small multiples (`src/lib/components/SmallMultiples.svelte`)
+
+Grid of small triangles, one per state (250 px wide, `auto-fill` CSS grid, no max-width). Each cell shows counties for that state. Ghost trails work identically to the main triangle.
+
+**Props:** same as `Triangle.svelte` plus `allData` (full `cleaned_data` across all years) — used to derive the stable state list so states with no data in the selected year still render. When a state has no current-year data, circles are held at the most recent available year's positions.
 
 ## Stack
 

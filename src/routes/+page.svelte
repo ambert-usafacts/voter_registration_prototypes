@@ -2,8 +2,10 @@
 	import { max } from 'd3-array';
 	import data from '../data/county_three_parties.csv';
 	import Triangle from '$lib/components/Triangle.svelte';
+	import StateTriangle from '$lib/components/StateTriangle.svelte';
 	import SmallMultiples from '$lib/components/SmallMultiples.svelte';
 	import Slider from '$lib/components/Slider.svelte';
+	import { groupByState } from '$lib/utils/processData.js';
 
 	const cleaned_data = $derived(
 		data.map((d) => ({
@@ -19,7 +21,8 @@
 
 	const yearData        = $derived(cleaned_data.filter((d) => d.year === selectedYear));
 	const trailData       = $derived(cleaned_data.filter((d) => d.year < selectedYear));
-	const globalMaxVoters = $derived(max(cleaned_data, (d) => d.total_voters));
+	const globalMaxVoters      = $derived(max(cleaned_data, (d) => d.total_voters));
+	const globalMaxStateVoters = $derived(max(groupByState(cleaned_data), (d) => d.totalVoters));
 
 	$effect(() => {
 		if (!playing) return;
@@ -66,6 +69,13 @@
 	data={yearData}
 	year={selectedYear}
 	globalMaxVoters={globalMaxVoters}
+	trailData={trailData}
+/>
+
+<StateTriangle
+	data={yearData}
+	year={selectedYear}
+	globalMaxStateVoters={globalMaxStateVoters}
 	trailData={trailData}
 />
 
