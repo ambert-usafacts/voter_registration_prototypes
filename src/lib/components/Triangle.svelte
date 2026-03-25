@@ -1,5 +1,6 @@
 <script>
-	import { max } from 'd3-array';
+	// @ts-nocheck
+	import { max, group } from 'd3-array';
 	import { scaleSqrt } from 'd3-scale';
 	import { groupByCounty } from '$lib/utils/processData.js';
 	import { barycentricToSVG, blendColor } from '$lib/utils/ternary.js';
@@ -7,7 +8,8 @@
 	let {
 		data,
 		year = 2026,
-		globalMaxVoters = null
+		globalMaxVoters = null,
+		trailData = []   // flat cleaned rows for all years before the current year
 	} = $props();
 
 	const SVG_W = 600;
@@ -39,6 +41,34 @@
 			color: blendColor(d.dem, d.rep, d.other)
 		}))
 	);
+
+	// Build per-county trail paths from prior-year rows.
+	// Returns Map<countyId, [{x, y}, ...]> ordered oldest → newest.
+	const trailPaths = $derived.by(() => {
+		if (!trailData.length) return new Map();
+
+		const byCounty = group(trailData, (d) => `${d.state}__${d.geography_standardized}`);
+		const paths = new Map();
+
+		for (const [countyId, rows] of byCounty) {
+			const byYear = group(rows, (d) => d.year);
+			const positions = [];
+
+			for (const [, yearRows] of [...byYear].sort(([a], [b]) => a - b)) {
+				const dem   = yearRows.find((r) => r.party === 'Democratic');
+				const rep   = yearRows.find((r) => r.party === 'Republican');
+				const other = yearRows.find((r) => r.party === 'Other/Unaffiliated');
+				if (!dem || !rep || !other) continue;
+
+				const sum = dem.percent + rep.percent + other.percent;
+				positions.push(barycentricToSVG(dem.percent / sum, rep.percent / sum, other.percent / sum, vertices));
+			}
+
+			if (positions.length) paths.set(countyId, positions);
+		}
+
+		return paths;
+	});
 
 	let hovered = $state(null);
 	let tipX    = $state(0);
@@ -81,6 +111,23 @@
 			class="vertex-label rep"
 		>Republican</text>
 
+		<!-- Trail paths (rendered below circles) -->
+		{#each countyPoints as pt (pt.id)}
+			{#if trailPaths.has(pt.id)}
+				{@const trail = trailPaths.get(pt.id)}
+				{@const allPts = [...trail, { x: pt.x, y: pt.y }]}
+				<polyline
+					points={allPts.map((p) => `${p.x},${p.y}`).join(' ')}
+					fill="none"
+					stroke={pt.color}
+					stroke-width="1"
+					stroke-opacity="0.35"
+					stroke-linecap="round"
+					stroke-linejoin="round"
+				/>
+			{/if}
+		{/each}
+
 		<!-- County circles -->
 		{#each countyPoints as pt (pt.id)}
 			<circle
@@ -91,6 +138,7 @@
 				fill-opacity="0.7"
 				stroke="white"
 				stroke-width="0.5"
+				role="presentation"
 				onmouseenter={(e) => { hovered = pt; tipX = e.clientX; tipY = e.clientY; }}
 				onmousemove={(e) => { tipX = e.clientX; tipY = e.clientY; }}
 				onmouseleave={() => { hovered = null; }}
