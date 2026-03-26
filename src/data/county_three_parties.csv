@@ -443,9 +443,6 @@ year,state,geography_standardized,party,total_voters,percent
 2016,delaware,Sussex,Democratic,58654,37.72082703623911
 2016,delaware,Sussex,Other/Unaffiliated,36429,23.42776295057719
 2016,delaware,Sussex,Republican,60412,38.8514100131837
-2016,districtofcolumbia,District of Columbia,Democratic,364914,76.05512273812948
-2016,districtofcolumbia,District of Columbia,Other/Unaffiliated,84964,17.70813794023368
-2016,districtofcolumbia,District of Columbia,Republican,29924,6.236739321636842
 2016,florida,Alachua,Democratic,85519,47.766371009182514
 2016,florida,Alachua,Other/Unaffiliated,43146,24.099063875421702
 2016,florida,Alachua,Republican,50371,28.134565115395787
@@ -1253,6 +1250,48 @@ year,state,geography_standardized,party,total_voters,percent
 2016,maryland,WORCESTER,Democratic,14522,37.745951706391494
 2016,maryland,WORCESTER,Other/Unaffiliated,7509,19.517583760039507
 2016,maryland,WORCESTER,Republican,16442,42.736464533569
+2016,massachusetts,Barnstable,Democratic,44340,25.518396381152993
+2016,massachusetts,Barnstable,Other/Unaffiliated,102986,59.27013012425398
+2016,massachusetts,Barnstable,Republican,26431,15.211473494593022
+2016,massachusetts,Berkshire,Democratic,32673,36.01402070037366
+2016,massachusetts,Berkshire,Other/Unaffiliated,50130,55.256109255646315
+2016,massachusetts,Berkshire,Republican,7920,8.729870043980027
+2016,massachusetts,Bristol,Democratic,118802,32.56473090691797
+2016,massachusetts,Bristol,Other/Unaffiliated,207224,56.80202183006321
+2016,massachusetts,Bristol,Republican,38792,10.63324726301882
+2016,massachusetts,Dukes,Democratic,5657,37.401652892561984
+2016,massachusetts,Dukes,Other/Unaffiliated,8041,53.16363636363637
+2016,massachusetts,Dukes,Republican,1427,9.434710743801652
+2016,massachusetts,Essex,Democratic,165423,31.413764683988042
+2016,massachusetts,Essex,Other/Unaffiliated,301127,57.1839025890914
+2016,massachusetts,Essex,Republican,60044,11.40233272692055
+2016,massachusetts,Franklin,Democratic,15646,30.552029837339635
+2016,massachusetts,Franklin,Other/Unaffiliated,31169,60.86387690144696
+2016,massachusetts,Franklin,Republican,4396,8.584093261213411
+2016,massachusetts,Hampden,Democratic,116864,36.87503747014221
+2016,massachusetts,Hampden,Other/Unaffiliated,160914,50.77448811841512
+2016,massachusetts,Hampden,Republican,39141,12.350474411442672
+2016,massachusetts,Hampshire,Democratic,40965,37.30942275815588
+2016,massachusetts,Hampshire,Other/Unaffiliated,59619,54.298803256889926
+2016,massachusetts,Hampshire,Republican,9214,8.391773984954188
+2016,massachusetts,Middlesex,Democratic,368267,35.432570096964824
+2016,massachusetts,Middlesex,Other/Unaffiliated,572098,55.04403730807642
+2016,massachusetts,Middlesex,Republican,98981,9.523392594958754
+2016,massachusetts,Nantucket,Democratic,2649,29.157952669235005
+2016,massachusetts,Nantucket,Other/Unaffiliated,5183,57.05008255365988
+2016,massachusetts,Nantucket,Republican,1253,13.791964777105118
+2016,massachusetts,Norfolk,Democratic,156151,32.676938787895274
+2016,massachusetts,Norfolk,Other/Unaffiliated,268934,56.27847311886461
+2016,massachusetts,Norfolk,Republican,52778,11.044588093240112
+2016,massachusetts,Plymouth,Democratic,94931,26.71945013622751
+2016,massachusetts,Plymouth,Other/Unaffiliated,212981,59.94601562675914
+2016,massachusetts,Plymouth,Republican,47376,13.33453423701335
+2016,massachusetts,Suffolk,Democratic,242782,51.59076227390182
+2016,massachusetts,Suffolk,Other/Unaffiliated,197765,42.02472630218958
+2016,massachusetts,Suffolk,Republican,30045,6.384511423908609
+2016,massachusetts,Worcester,Democratic,144678,27.10061720879265
+2016,massachusetts,Worcester,Other/Unaffiliated,322467,60.403480345786775
+2016,massachusetts,Worcester,Republican,66710,12.495902445420572
 2016,nevada,Carson City,Democratic,9765,30.80441640378549
 2016,nevada,Carson City,Other/Unaffiliated,8019,25.296529968454255
 2016,nevada,Carson City,Republican,13916,43.89905362776025
@@ -2694,9 +2733,6 @@ year,state,geography_standardized,party,total_voters,percent
 2016,southdakota,Ziebach,Democratic,905,56.846733668341706
 2016,southdakota,Ziebach,Other/Unaffiliated,290,18.21608040201005
 2016,southdakota,Ziebach,Republican,397,24.937185929648244
-2016,utah,Utah,Democratic,180943,11.412700344948732
-2016,utah,Utah,Other/Unaffiliated,672849,42.43891178104933
-2016,utah,Utah,Republican,731661,46.14838787400194
 2016,westvirginia,-- 1 Of 1 --,Democratic,0,NA
 2016,westvirginia,-- 1 Of 1 --,Other/Unaffiliated,0,NA
 2016,westvirginia,-- 1 Of 1 --,Republican,0,NA
@@ -4383,6 +4419,48 @@ year,state,geography_standardized,party,total_voters,percent
 2017,maryland,WORCESTER,Democratic,14223,37.129953532083746
 2017,maryland,WORCESTER,Other/Unaffiliated,7595,19.827181120451105
 2017,maryland,WORCESTER,Republican,16488,43.042865347465145
+2017,massachusetts,Barnstable,Democratic,43609,25.39615059837522
+2017,massachusetts,Barnstable,Other/Unaffiliated,102030,59.418222053984806
+2017,massachusetts,Barnstable,Republican,26076,15.185627347639985
+2017,massachusetts,Berkshire,Democratic,32274,35.92466439591264
+2017,massachusetts,Berkshire,Other/Unaffiliated,49718,55.341837529775816
+2017,massachusetts,Berkshire,Republican,7846,8.733498074311537
+2017,massachusetts,Bristol,Democratic,115676,32.254970303655575
+2017,massachusetts,Bristol,Other/Unaffiliated,204638,57.06103783844073
+2017,massachusetts,Bristol,Republican,38316,10.68399185790369
+2017,massachusetts,Dukes,Democratic,5561,37.31463463732134
+2017,massachusetts,Dukes,Other/Unaffiliated,7931,53.21747299201503
+2017,massachusetts,Dukes,Republican,1411,9.467892370663625
+2017,massachusetts,Essex,Democratic,160586,31.15561315556659
+2017,massachusetts,Essex,Other/Unaffiliated,295961,57.41998944574648
+2017,massachusetts,Essex,Republican,58885,11.424397398686926
+2017,massachusetts,Franklin,Democratic,15354,30.416006339144214
+2017,massachusetts,Franklin,Other/Unaffiliated,30791,60.99643423137876
+2017,massachusetts,Franklin,Republican,4335,8.587559429477022
+2017,massachusetts,Hampden,Democratic,115363,36.70894534531477
+2017,massachusetts,Hampden,Other/Unaffiliated,160064,50.93297355089989
+2017,massachusetts,Hampden,Republican,38837,12.358081103785352
+2017,massachusetts,Hampshire,Democratic,40571,37.28164082960404
+2017,massachusetts,Hampshire,Other/Unaffiliated,59155,54.358913097415076
+2017,massachusetts,Hampshire,Republican,9097,8.359446072980896
+2017,massachusetts,Middlesex,Democratic,358794,35.204563718087975
+2017,massachusetts,Middlesex,Other/Unaffiliated,563303,55.27081377082702
+2017,massachusetts,Middlesex,Republican,97072,9.524622511085012
+2017,massachusetts,Nantucket,Democratic,2675,29.33757402939241
+2017,massachusetts,Nantucket,Other/Unaffiliated,5198,57.00811581487169
+2017,massachusetts,Nantucket,Republican,1245,13.654310155735908
+2017,massachusetts,Norfolk,Democratic,153840,32.548259607491346
+2017,massachusetts,Norfolk,Other/Unaffiliated,266776,56.44237197769183
+2017,massachusetts,Norfolk,Republican,52036,11.009368414816821
+2017,massachusetts,Plymouth,Democratic,93894,26.60806284324894
+2017,massachusetts,Plymouth,Other/Unaffiliated,211980,60.07175284375903
+2017,massachusetts,Plymouth,Republican,47004,13.320184312992026
+2017,massachusetts,Suffolk,Democratic,244654,51.44123515818999
+2017,massachusetts,Suffolk,Other/Unaffiliated,200526,42.16283045170407
+2017,massachusetts,Suffolk,Republican,30419,6.395934390105951
+2017,massachusetts,Worcester,Democratic,144019,27.002819922452133
+2017,massachusetts,Worcester,Other/Unaffiliated,322671,60.49914877340873
+2017,massachusetts,Worcester,Republican,66658,12.498031304139136
 2017,nevada,Carson City,Democratic,9848,30.34074804362561
 2017,nevada,Carson City,Other/Unaffiliated,8320,25.633125885760062
 2017,nevada,Carson City,Republican,14290,44.02612607061433
@@ -5821,9 +5899,6 @@ year,state,geography_standardized,party,total_voters,percent
 2017,southdakota,Ziebach,Democratic,856,55.80182529335072
 2017,southdakota,Ziebach,Other/Unaffiliated,284,18.513689700130378
 2017,southdakota,Ziebach,Republican,394,25.684485006518905
-2017,utah,Utah,Democratic,176433,11.466434781252376
-2017,utah,Utah,Other/Unaffiliated,645398,41.944613960827745
-2017,utah,Utah,Republican,716860,46.58895125791988
 2017,westvirginia,-- 1 Of 1 --,Democratic,0,NA
 2017,westvirginia,-- 1 Of 1 --,Other/Unaffiliated,0,NA
 2017,westvirginia,-- 1 Of 1 --,Republican,0,NA
@@ -7816,6 +7891,48 @@ year,state,geography_standardized,party,total_voters,percent
 2018,maryland,WORCESTER,Democratic,14225,36.171998169150186
 2018,maryland,WORCESTER,Other/Unaffiliated,7721,19.633321466714133
 2018,maryland,WORCESTER,Republican,17380,44.194680364135685
+2018,massachusetts,Barnstable,Democratic,43284,24.948413201609277
+2018,massachusetts,Barnstable,Other/Unaffiliated,104779,60.39344300091069
+2018,massachusetts,Barnstable,Republican,25431,14.658143797480028
+2018,massachusetts,Berkshire,Democratic,31763,35.364916773367476
+2018,massachusetts,Berkshire,Other/Unaffiliated,50356,56.06635862606469
+2018,massachusetts,Berkshire,Republican,7696,8.568724600567833
+2018,massachusetts,Bristol,Democratic,112527,30.55200332326038
+2018,massachusetts,Bristol,Other/Unaffiliated,216285,58.72315123278299
+2018,massachusetts,Bristol,Republican,39501,10.724845443956635
+2018,massachusetts,Dukes,Democratic,5706,37.41148701809598
+2018,massachusetts,Dukes,Other/Unaffiliated,8167,53.547075793338585
+2018,massachusetts,Dukes,Republican,1379,9.041437188565434
+2018,massachusetts,Essex,Democratic,162360,30.47583294228062
+2018,massachusetts,Essex,Other/Unaffiliated,312239,58.608916001877056
+2018,massachusetts,Essex,Republican,58151,10.915251055842328
+2018,massachusetts,Franklin,Democratic,15320,30.066334340777956
+2018,massachusetts,Franklin,Other/Unaffiliated,31416,61.655610943203676
+2018,massachusetts,Franklin,Republican,4218,8.278054716018369
+2018,massachusetts,Hampden,Democratic,114394,35.22720273948979
+2018,massachusetts,Hampden,Other/Unaffiliated,170798,52.596602737026224
+2018,massachusetts,Hampden,Republican,39540,12.17619452348398
+2018,massachusetts,Hampshire,Democratic,40557,36.895827078955264
+2018,massachusetts,Hampshire,Other/Unaffiliated,60490,55.029429691693274
+2018,massachusetts,Hampshire,Republican,8876,8.074743229351455
+2018,massachusetts,Middlesex,Democratic,360454,34.71377942139527
+2018,massachusetts,Middlesex,Other/Unaffiliated,584630,56.30320890635232
+2018,massachusetts,Middlesex,Republican,93276,8.983011672252399
+2018,massachusetts,Nantucket,Democratic,2718,29.9009900990099
+2018,massachusetts,Nantucket,Other/Unaffiliated,5205,57.26072607260726
+2018,massachusetts,Nantucket,Republican,1167,12.838283828382838
+2018,massachusetts,Norfolk,Democratic,153607,31.889579060130707
+2018,massachusetts,Norfolk,Other/Unaffiliated,277507,57.61183680587273
+2018,massachusetts,Norfolk,Republican,50570,10.498584133996562
+2018,massachusetts,Plymouth,Democratic,93571,25.90659660119717
+2018,massachusetts,Plymouth,Other/Unaffiliated,220759,61.12058606922749
+2018,massachusetts,Plymouth,Republican,46856,12.972817329575342
+2018,massachusetts,Suffolk,Democratic,235436,49.89858614031778
+2018,massachusetts,Suffolk,Other/Unaffiliated,208360,44.16006646475736
+2018,massachusetts,Suffolk,Republican,28033,5.941347394924856
+2018,massachusetts,Worcester,Democratic,142910,26.09823132481715
+2018,massachusetts,Worcester,Other/Unaffiliated,337986,61.7230201703845
+2018,massachusetts,Worcester,Republican,66689,12.178748504798342
 2018,nevada,Carson City,Democratic,10345,29.906623110057527
 2018,nevada,Carson City,Other/Unaffiliated,8929,25.813072764591944
 2018,nevada,Carson City,Republican,15317,44.280304125350526
@@ -9269,9 +9386,6 @@ year,state,geography_standardized,party,total_voters,percent
 2018,southdakota,Ziebach,Democratic,894,55.59701492537313
 2018,southdakota,Ziebach,Other/Unaffiliated,320,19.900497512437813
 2018,southdakota,Ziebach,Republican,394,24.502487562189053
-2018,utah,Utah,Democratic,208803,12.567932370086584
-2018,utah,Utah,Other/Unaffiliated,688177,41.421636636681825
-2018,utah,Utah,Republican,764415,46.010430993231594
 2018,westvirginia,-- 1 Of 1 --,Democratic,0,NA
 2018,westvirginia,-- 1 Of 1 --,Other/Unaffiliated,0,NA
 2018,westvirginia,-- 1 Of 1 --,Republican,0,NA
@@ -11087,6 +11201,48 @@ year,state,geography_standardized,party,total_voters,percent
 2019,maryland,WORCESTER,Democratic,13897,35.18405995240265
 2019,maryland,WORCESTER,Other/Unaffiliated,8004,20.26431718061674
 2019,maryland,WORCESTER,Republican,17597,44.55162286698061
+2019,massachusetts,Barnstable,Democratic,42064,24.87757564287573
+2019,massachusetts,Barnstable,Other/Unaffiliated,125741,74.36599559982021
+2019,massachusetts,Barnstable,Republican,1279,0.7564287573040619
+2019,massachusetts,Berkshire,Democratic,30736,35.24043202091312
+2019,massachusetts,Berkshire,Other/Unaffiliated,55909,64.10259350134146
+2019,massachusetts,Berkshire,Republican,573,0.6569744777454195
+2019,massachusetts,Bristol,Democratic,108148,30.184655919260482
+2019,massachusetts,Bristol,Other/Unaffiliated,246199,68.71539097039253
+2019,massachusetts,Bristol,Republican,3941,1.0999531103469835
+2019,massachusetts,Dukes,Democratic,5622,37.43757075314643
+2019,massachusetts,Dukes,Other/Unaffiliated,9329,62.12292734900446
+2019,massachusetts,Dukes,Republican,66,0.4395018978491043
+2019,massachusetts,Essex,Democratic,155633,30.214719757712245
+2019,massachusetts,Essex,Other/Unaffiliated,354849,68.89067929876333
+2019,massachusetts,Essex,Republican,4608,0.8946009435244326
+2019,massachusetts,Franklin,Democratic,15002,30.032831518257524
+2019,massachusetts,Franklin,Other/Unaffiliated,34491,69.0482863549007
+2019,massachusetts,Franklin,Republican,459,0.9188821268417681
+2019,massachusetts,Hampden,Democratic,103946,34.40906487823125
+2019,massachusetts,Hampden,Other/Unaffiliated,194958,64.53661007186624
+2019,massachusetts,Hampden,Republican,3185,1.0543250499025123
+2019,massachusetts,Hampshire,Democratic,38291,36.96613376583256
+2019,massachusetts,Hampshire,Other/Unaffiliated,64344,62.117701575532905
+2019,massachusetts,Hampshire,Republican,949,0.9161646586345381
+2019,massachusetts,Middlesex,Democratic,348321,34.55599757934106
+2019,massachusetts,Middlesex,Other/Unaffiliated,652306,64.71353882478994
+2019,massachusetts,Middlesex,Republican,7363,0.7304635958690066
+2019,massachusetts,Nantucket,Democratic,2688,30.134529147982065
+2019,massachusetts,Nantucket,Other/Unaffiliated,6165,69.11434977578476
+2019,massachusetts,Nantucket,Republican,67,0.7511210762331838
+2019,massachusetts,Norfolk,Democratic,148959,31.703589876747635
+2019,massachusetts,Norfolk,Other/Unaffiliated,317116,67.49317333866838
+2019,massachusetts,Norfolk,Republican,3774,0.8032367845839834
+2019,massachusetts,Plymouth,Democratic,91452,25.76715119309585
+2019,massachusetts,Plymouth,Other/Unaffiliated,259612,73.14724287650351
+2019,massachusetts,Plymouth,Republican,3853,1.085605930400629
+2019,massachusetts,Suffolk,Democratic,234519,49.695178157083376
+2019,massachusetts,Suffolk,Other/Unaffiliated,233604,49.50128730809574
+2019,massachusetts,Suffolk,Republican,3792,0.8035345348208893
+2019,massachusetts,Worcester,Democratic,132924,25.512215438533186
+2019,massachusetts,Worcester,Other/Unaffiliated,382369,73.38840469002209
+2019,massachusetts,Worcester,Republican,5728,1.0993798714447212
 2019,nebraska,Adams,Democratic,4526,23.54226267880364
 2019,nebraska,Adams,Other/Unaffiliated,3990,20.754226267880362
 2019,nebraska,Adams,Republican,10709,55.70351105331599
@@ -12819,9 +12975,6 @@ year,state,geography_standardized,party,total_voters,percent
 2019,southdakota,Ziebach,Democratic,861,55.08637236084453
 2019,southdakota,Ziebach,Other/Unaffiliated,316,20.217530390275112
 2019,southdakota,Ziebach,Republican,386,24.69609724888036
-2019,utah,Utah,Democratic,217235,12.865020185707325
-2019,utah,Utah,Other/Unaffiliated,704447,41.71853004700424
-2019,utah,Utah,Republican,766889,45.416449767288434
 2019,westvirginia,-- 1 Of 1 --,Democratic,0,NA
 2019,westvirginia,-- 1 Of 1 --,Other/Unaffiliated,0,NA
 2019,westvirginia,-- 1 Of 1 --,Republican,0,NA
@@ -14787,6 +14940,48 @@ year,state,geography_standardized,party,total_voters,percent
 2020,maryland,WORCESTER,Democratic,14290,34.532756579106355
 2020,maryland,WORCESTER,Other/Unaffiliated,8450,20.419999516686403
 2020,maryland,WORCESTER,Republican,18641,45.04724390420725
+2020,massachusetts,Barnstable,Democratic,46076,24.9860363218316
+2020,massachusetts,Barnstable,Other/Unaffiliated,136992,74.28785241341164
+2020,massachusetts,Barnstable,Republican,1339,0.7261112647567609
+2020,massachusetts,Berkshire,Democratic,32364,34.53486138677252
+2020,massachusetts,Berkshire,Other/Unaffiliated,60739,64.81315491815523
+2020,massachusetts,Berkshire,Republican,611,0.6519836950722411
+2020,massachusetts,Bristol,Democratic,111075,28.16474633344828
+2020,massachusetts,Bristol,Other/Unaffiliated,279202,70.7958902164432
+2020,massachusetts,Bristol,Republican,4099,1.0393634501085258
+2020,massachusetts,Dukes,Democratic,6116,37.65546115010467
+2020,massachusetts,Dukes,Other/Unaffiliated,10057,61.919714320896446
+2020,massachusetts,Dukes,Republican,69,0.4248245289988918
+2020,massachusetts,Essex,Democratic,165100,29.40259832773835
+2020,massachusetts,Essex,Other/Unaffiliated,391643,69.74755794591417
+2020,massachusetts,Essex,Republican,4772,0.8498437263474706
+2020,massachusetts,Franklin,Democratic,16130,29.847155915769218
+2020,massachusetts,Franklin,Other/Unaffiliated,37432,69.26464601606158
+2020,massachusetts,Franklin,Republican,480,0.8881980681692017
+2020,massachusetts,Hampden,Democratic,107321,32.430611165671976
+2020,massachusetts,Hampden,Other/Unaffiliated,220356,66.58789755987006
+2020,massachusetts,Hampden,Republican,3248,0.9814912744579587
+2020,massachusetts,Hampshire,Democratic,40181,36.785344819694046
+2020,massachusetts,Hampshire,Other/Unaffiliated,68166,62.40536111543427
+2020,massachusetts,Hampshire,Republican,884,0.809294064871694
+2020,massachusetts,Middlesex,Democratic,373352,34.084182504368336
+2020,massachusetts,Middlesex,Other/Unaffiliated,714692,65.24591421075023
+2020,massachusetts,Middlesex,Republican,7338,0.6699032848814387
+2020,massachusetts,Nantucket,Democratic,2869,29.845001560386976
+2020,massachusetts,Nantucket,Other/Unaffiliated,6676,69.4476230105066
+2020,massachusetts,Nantucket,Republican,68,0.7073754291064184
+2020,massachusetts,Norfolk,Democratic,159857,31.31927015679521
+2020,massachusetts,Norfolk,Other/Unaffiliated,346934,67.97149747948222
+2020,massachusetts,Norfolk,Republican,3620,0.7092323637225686
+2020,massachusetts,Plymouth,Democratic,97491,25.154099206605174
+2020,massachusetts,Plymouth,Other/Unaffiliated,286292,73.86750951428755
+2020,massachusetts,Plymouth,Republican,3792,0.9783912791072695
+2020,massachusetts,Suffolk,Democratic,235491,47.842728541563815
+2020,massachusetts,Suffolk,Other/Unaffiliated,253143,51.428937119452925
+2020,massachusetts,Suffolk,Republican,3585,0.7283343389832575
+2020,massachusetts,Worcester,Democratic,141126,24.618750065416943
+2020,massachusetts,Worcester,Other/Unaffiliated,426461,74.39406467729387
+2020,massachusetts,Worcester,Republican,5659,0.9871852572891917
 2020,nebraska,Adams,Democratic,4485,22.566037735849058
 2020,nebraska,Adams,Other/Unaffiliated,4179,21.026415094339622
 2020,nebraska,Adams,Republican,11211,56.40754716981132
@@ -16527,9 +16722,6 @@ year,state,geography_standardized,party,total_voters,percent
 2020,southdakota,Ziebach,Democratic,862,52.147610405323654
 2020,southdakota,Ziebach,Other/Unaffiliated,382,23.109497882637626
 2020,southdakota,Ziebach,Republican,409,24.742891712038716
-2020,utah,Utah,Democratic,276228,14.680063391037883
-2020,utah,Utah,Other/Unaffiliated,671053,35.66293271770474
-2020,utah,Utah,Republican,934373,49.657003891257375
 2020,westvirginia,-- 1 Of 1 --,Democratic,0,NA
 2020,westvirginia,-- 1 Of 1 --,Other/Unaffiliated,0,NA
 2020,westvirginia,-- 1 Of 1 --,Republican,0,NA
@@ -17217,9 +17409,6 @@ year,state,geography_standardized,party,total_voters,percent
 2021,delaware,Sussex,Democratic,67482,35.96393054711732
 2021,delaware,Sussex,Other/Unaffiliated,45425,24.208848953836643
 2021,delaware,Sussex,Republican,74731,39.827220499046035
-2021,districtofcolumbia,District of Columbia,Democratic,399921,76.44392877076818
-2021,districtofcolumbia,District of Columbia,Other/Unaffiliated,94221,18.010115529593467
-2021,districtofcolumbia,District of Columbia,Republican,29014,5.545955699638349
 2021,florida,Alachua,Democratic,94969,49.1876213906513
 2021,florida,Alachua,Other/Unaffiliated,46300,23.980318529069013
 2021,florida,Alachua,Republican,51806,26.832060080279685
@@ -18837,6 +19026,48 @@ year,state,geography_standardized,party,total_voters,percent
 2021,maryland,WORCESTER,Democratic,13993,33.74653322078861
 2021,maryland,WORCESTER,Other/Unaffiliated,8896,21.45423851440974
 2021,maryland,WORCESTER,Republican,18576,44.79922826480164
+2021,massachusetts,Barnstable,Democratic,45568,24.817279728125307
+2021,massachusetts,Barnstable,Other/Unaffiliated,113048,61.56828999967323
+2021,massachusetts,Barnstable,Republican,24998,13.614430272201467
+2021,massachusetts,Berkshire,Democratic,31310,34.217457351125105
+2021,massachusetts,Berkshire,Other/Unaffiliated,52511,57.38718949105493
+2021,massachusetts,Berkshire,Republican,7682,8.395353157819962
+2021,massachusetts,Bristol,Democratic,106599,27.77223427897028
+2021,massachusetts,Bristol,Other/Unaffiliated,235977,61.479080746053626
+2021,massachusetts,Bristol,Republican,41257,10.748684974976095
+2021,massachusetts,Dukes,Democratic,6012,37.48597081930416
+2021,massachusetts,Dukes,Other/Unaffiliated,8745,54.52674897119342
+2021,massachusetts,Dukes,Republican,1281,7.987280209502432
+2021,massachusetts,Essex,Democratic,159902,28.980196207429636
+2021,massachusetts,Essex,Other/Unaffiliated,335137,60.73930292535019
+2021,massachusetts,Essex,Republican,56724,10.280500867220166
+2021,massachusetts,Franklin,Democratic,15786,29.64841108857336
+2021,massachusetts,Franklin,Other/Unaffiliated,33227,62.40515363233416
+2021,massachusetts,Franklin,Republican,4231,7.94643527909248
+2021,massachusetts,Hampden,Democratic,104950,32.078712816813585
+2021,massachusetts,Hampden,Other/Unaffiliated,182958,55.922412001320446
+2021,massachusetts,Hampden,Republican,39256,11.998875181865976
+2021,massachusetts,Hampshire,Democratic,39516,36.672760851206
+2021,massachusetts,Hampshire,Other/Unaffiliated,59776,55.47502157712546
+2021,massachusetts,Hampshire,Republican,8461,7.852217571668538
+2021,massachusetts,Middlesex,Democratic,363838,33.854937717328696
+2021,massachusetts,Middlesex,Other/Unaffiliated,623269,57.994858085581335
+2021,massachusetts,Middlesex,Republican,87590,8.15020419708997
+2021,massachusetts,Nantucket,Democratic,2775,29.552715654952078
+2021,massachusetts,Nantucket,Other/Unaffiliated,5513,58.71139510117146
+2021,massachusetts,Nantucket,Republican,1102,11.735889243876464
+2021,massachusetts,Norfolk,Democratic,157918,31.16523784713999
+2021,massachusetts,Norfolk,Other/Unaffiliated,300167,59.238186583305705
+2021,massachusetts,Norfolk,Republican,48627,9.596575569554302
+2021,massachusetts,Plymouth,Democratic,95417,24.938905340522684
+2021,massachusetts,Plymouth,Other/Unaffiliated,240147,62.766627548660104
+2021,massachusetts,Plymouth,Republican,47039,12.294467110817218
+2021,massachusetts,Suffolk,Democratic,231898,47.41388652055949
+2021,massachusetts,Suffolk,Other/Unaffiliated,230947,47.21944497263302
+2021,massachusetts,Suffolk,Republican,26248,5.366668506807499
+2021,massachusetts,Worcester,Democratic,133491,24.072688189882296
+2021,massachusetts,Worcester,Other/Unaffiliated,355875,64.17562164920753
+2021,massachusetts,Worcester,Republican,65167,11.75169016091017
 2021,nebraska,Adams,Democratic,4260,21.873074553296366
 2021,nebraska,Adams,Other/Unaffiliated,4144,21.277469706305197
 2021,nebraska,Adams,Republican,11072,56.84945574039843
@@ -20577,9 +20808,6 @@ year,state,geography_standardized,party,total_voters,percent
 2021,southdakota,Ziebach,Democratic,813,51.32575757575758
 2021,southdakota,Ziebach,Other/Unaffiliated,380,23.98989898989899
 2021,southdakota,Ziebach,Republican,391,24.684343434343432
-2021,utah,Utah,Democratic,271565,14.702952339186034
-2021,utah,Utah,Other/Unaffiliated,663903,35.9447431253756
-2021,utah,Utah,Republican,911542,49.35230453543836
 2021,westvirginia,-- 1 Of 1 --,Democratic,0,NA
 2021,westvirginia,-- 1 Of 1 --,Other/Unaffiliated,0,NA
 2021,westvirginia,-- 1 Of 1 --,Republican,0,NA
@@ -20868,6 +21096,231 @@ year,state,geography_standardized,party,total_voters,percent
 2022,arizona,Yuma,Democratic,32090,30.52324198871905
 2022,arizona,Yuma,Other/Unaffiliated,41345,39.32637706524117
 2022,arizona,Yuma,Republican,31698,30.15038094603978
+2022,arkansas,Arkansas,Democratic,0,0
+2022,arkansas,Arkansas,Other/Unaffiliated,8830,100
+2022,arkansas,Arkansas,Republican,0,0
+2022,arkansas,Ashley,Democratic,520,4.818383988139362
+2022,arkansas,Ashley,Other/Unaffiliated,9637,89.29762787249814
+2022,arkansas,Ashley,Republican,635,5.883988139362491
+2022,arkansas,Baxter,Democratic,925,3.131559347281468
+2022,arkansas,Baxter,Other/Unaffiliated,24183,81.87081048141377
+2022,arkansas,Baxter,Republican,4430,14.99763017130476
+2022,arkansas,Benton,Democratic,8451,4.807878298269368
+2022,arkansas,Benton,Other/Unaffiliated,146461,83.32347218587505
+2022,arkansas,Benton,Republican,20862,11.868649515855587
+2022,arkansas,Boone,Democratic,720,2.8519369405054267
+2022,arkansas,Boone,Other/Unaffiliated,21568,85.43135546225145
+2022,arkansas,Boone,Republican,2958,11.716707597243127
+2022,arkansas,Bradley,Democratic,212,4.007561436672968
+2022,arkansas,Bradley,Other/Unaffiliated,4910,92.81663516068053
+2022,arkansas,Bradley,Republican,168,3.175803402646503
+2022,arkansas,Calhoun,Democratic,11,0.35959463877084014
+2022,arkansas,Calhoun,Other/Unaffiliated,3032,99.11735861392611
+2022,arkansas,Calhoun,Republican,16,0.5230467473030402
+2022,arkansas,Carroll,Democratic,835,5.664857530529172
+2022,arkansas,Carroll,Other/Unaffiliated,12503,84.8236092265943
+2022,arkansas,Carroll,Republican,1402,9.511533242876528
+2022,arkansas,Chicot,Democratic,350,6.023059714334882
+2022,arkansas,Chicot,Other/Unaffiliated,5142,88.4873515745999
+2022,arkansas,Chicot,Republican,319,5.489588711065221
+2022,arkansas,Clark,Democratic,525,4.303984259714707
+2022,arkansas,Clark,Other/Unaffiliated,11219,91.97409411378915
+2022,arkansas,Clark,Republican,454,3.721921626496147
+2022,arkansas,Clay,Democratic,37,0.4841664485736718
+2022,arkansas,Clay,Other/Unaffiliated,7508,98.24653232138184
+2022,arkansas,Clay,Republican,97,1.269301230044491
+2022,arkansas,Cleburne,Democratic,709,3.923196104471005
+2022,arkansas,Cleburne,Other/Unaffiliated,14060,77.79991146525012
+2022,arkansas,Cleburne,Republican,3303,18.276892430278885
+2022,arkansas,Cleveland,Democratic,224,4.817204301075269
+2022,arkansas,Cleveland,Other/Unaffiliated,3900,83.87096774193549
+2022,arkansas,Cleveland,Republican,526,11.311827956989246
+2022,arkansas,Columbia,Democratic,49,0.4022328024954851
+2022,arkansas,Columbia,Other/Unaffiliated,11958,98.16122147430634
+2022,arkansas,Columbia,Republican,175,1.4365457231981613
+2022,arkansas,Conway,Democratic,330,2.83067421513124
+2022,arkansas,Conway,Other/Unaffiliated,10774,92.41722422370904
+2022,arkansas,Conway,Republican,554,4.752101561159719
+2022,arkansas,Craighead,Democratic,3060,5.3718137771223935
+2022,arkansas,Craighead,Other/Unaffiliated,49920,87.63429534442805
+2022,arkansas,Craighead,Republican,3984,6.993890878449547
+2022,arkansas,Crawford,Democratic,699,1.980169971671388
+2022,arkansas,Crawford,Other/Unaffiliated,32409,91.81019830028329
+2022,arkansas,Crawford,Republican,2192,6.209631728045325
+2022,arkansas,Crittenden,Democratic,746,2.3118879385149373
+2022,arkansas,Crittenden,Other/Unaffiliated,31025,96.14788645097309
+2022,arkansas,Crittenden,Republican,497,1.5402256105119623
+2022,arkansas,Cross,Democratic,146,1.4795297932711795
+2022,arkansas,Cross,Other/Unaffiliated,9387,95.12565869477098
+2022,arkansas,Cross,Republican,335,3.394811511957844
+2022,arkansas,Dallas,Democratic,169,4.253712559778505
+2022,arkansas,Dallas,Other/Unaffiliated,3680,92.62522023659703
+2022,arkansas,Dallas,Republican,124,3.1210672036244653
+2022,arkansas,Desha,Democratic,322,4.545454545454546
+2022,arkansas,Desha,Other/Unaffiliated,6654,93.92998306041784
+2022,arkansas,Desha,Republican,108,1.5245623941276116
+2022,arkansas,Drew,Democratic,416,3.812316715542522
+2022,arkansas,Drew,Other/Unaffiliated,10011,91.74303519061584
+2022,arkansas,Drew,Republican,485,4.444648093841643
+2022,arkansas,Faulkner,Democratic,2195,2.8893744734625106
+2022,arkansas,Faulkner,Other/Unaffiliated,70296,92.53369839932604
+2022,arkansas,Faulkner,Republican,3477,4.576927127211458
+2022,arkansas,Franklin,Democratic,384,3.9215686274509802
+2022,arkansas,Franklin,Other/Unaffiliated,8844,90.31862745098039
+2022,arkansas,Franklin,Republican,564,5.759803921568627
+2022,arkansas,Fulton,Democratic,231,3.1317787418655096
+2022,arkansas,Fulton,Other/Unaffiliated,6450,87.44577006507592
+2022,arkansas,Fulton,Republican,695,9.422451193058569
+2022,arkansas,Garland,Democratic,1703,2.6608543483016156
+2022,arkansas,Garland,Other/Unaffiliated,59701,93.27989750320302
+2022,arkansas,Garland,Republican,2598,4.05924814849536
+2022,arkansas,Grant,Democratic,473,4.222837246674404
+2022,arkansas,Grant,Other/Unaffiliated,9871,88.12606017319882
+2022,arkansas,Grant,Republican,857,7.651102580126774
+2022,arkansas,Greene,Democratic,662,3.030996749233094
+2022,arkansas,Greene,Other/Unaffiliated,19266,88.21024678357217
+2022,arkansas,Greene,Republican,1913,8.758756467194726
+2022,arkansas,Hempstead,Democratic,113,1.4056474685906208
+2022,arkansas,Hempstead,Other/Unaffiliated,7672,95.43475556661276
+2022,arkansas,Hempstead,Republican,254,3.159596964796617
+2022,arkansas,Hot Spring,Democratic,262,1.4711662642484138
+2022,arkansas,Hot Spring,Other/Unaffiliated,17169,96.4063114155764
+2022,arkansas,Hot Spring,Republican,378,2.122522320175192
+2022,arkansas,Howard,Democratic,180,2.5316455696202533
+2022,arkansas,Howard,Other/Unaffiliated,6677,93.90998593530239
+2022,arkansas,Howard,Republican,253,3.558368495077356
+2022,arkansas,Independence,Democratic,936,4.433287547956236
+2022,arkansas,Independence,Other/Unaffiliated,18423,87.25903471794629
+2022,arkansas,Independence,Republican,1754,8.307677734097476
+2022,arkansas,Izard,Democratic,156,1.6595744680851061
+2022,arkansas,Izard,Other/Unaffiliated,8602,91.51063829787233
+2022,arkansas,Izard,Republican,642,6.829787234042553
+2022,arkansas,Jackson,Democratic,443,5.540270135067534
+2022,arkansas,Jackson,Other/Unaffiliated,7290,91.17058529264632
+2022,arkansas,Jackson,Republican,263,3.2891445722861428
+2022,arkansas,Jefferson,Democratic,1804,5.026609824737385
+2022,arkansas,Jefferson,Other/Unaffiliated,33440,93.17618211708323
+2022,arkansas,Jefferson,Republican,645,1.7972080581793866
+2022,arkansas,Johnson,Democratic,487,3.938854739566483
+2022,arkansas,Johnson,Other/Unaffiliated,10923,88.34519572953737
+2022,arkansas,Johnson,Republican,954,7.71594953089615
+2022,arkansas,Lafayette,Democratic,26,0.6730520320994046
+2022,arkansas,Lafayette,Other/Unaffiliated,3784,97.95495728708258
+2022,arkansas,Lafayette,Republican,53,1.3719906808180171
+2022,arkansas,Lawrence,Democratic,324,3.8760617298719944
+2022,arkansas,Lawrence,Other/Unaffiliated,7667,91.72149778681661
+2022,arkansas,Lawrence,Republican,368,4.402440483311401
+2022,arkansas,Lee,Democratic,315,7.050134288272157
+2022,arkansas,Lee,Other/Unaffiliated,4060,90.86839749328558
+2022,arkansas,Lee,Republican,93,2.0814682184422564
+2022,arkansas,Lincoln,Democratic,71,1.3236390753169276
+2022,arkansas,Lincoln,Other/Unaffiliated,5179,96.5510812826249
+2022,arkansas,Lincoln,Republican,114,2.1252796420581657
+2022,arkansas,Little River,Democratic,154,2.162921348314607
+2022,arkansas,Little River,Other/Unaffiliated,6825,95.85674157303372
+2022,arkansas,Little River,Republican,141,1.9803370786516852
+2022,arkansas,Logan,Democratic,0,0
+2022,arkansas,Logan,Other/Unaffiliated,12757,100
+2022,arkansas,Logan,Republican,0,0
+2022,arkansas,Lonoke,Democratic,3391,7.310552980489382
+2022,arkansas,Lonoke,Other/Unaffiliated,37632,81.12967554166217
+2022,arkansas,Lonoke,Republican,5362,11.559771477848441
+2022,arkansas,Madison,Democratic,295,2.874123148869836
+2022,arkansas,Madison,Other/Unaffiliated,9369,91.28020265003897
+2022,arkansas,Madison,Republican,600,5.845674201091192
+2022,arkansas,Marion,Democratic,344,3.1763619575253927
+2022,arkansas,Marion,Other/Unaffiliated,9068,83.73037857802402
+2022,arkansas,Marion,Republican,1418,13.093259464450599
+2022,arkansas,Miller,Democratic,1808,6.935706613472456
+2022,arkansas,Miller,Other/Unaffiliated,21223,81.41399416909621
+2022,arkansas,Miller,Republican,3037,11.650299217431334
+2022,arkansas,Mississippi,Democratic,2659,14.000631844987362
+2022,arkansas,Mississippi,Other/Unaffiliated,15723,82.7874894692502
+2022,arkansas,Mississippi,Republican,610,3.211878685762426
+2022,arkansas,Monroe,Democratic,449,11.395939086294417
+2022,arkansas,Monroe,Other/Unaffiliated,3441,87.33502538071066
+2022,arkansas,Monroe,Republican,50,1.2690355329949239
+2022,arkansas,Montgomery,Democratic,33,0.6501182033096926
+2022,arkansas,Montgomery,Other/Unaffiliated,4952,97.5571315996848
+2022,arkansas,Montgomery,Republican,91,1.7927501970055164
+2022,arkansas,Nevada,Democratic,16,0.2784545770971111
+2022,arkansas,Nevada,Other/Unaffiliated,5703,99.25165332405152
+2022,arkansas,Nevada,Republican,27,0.4698920988513749
+2022,arkansas,Newton,Democratic,85,1.4228322731837966
+2022,arkansas,Newton,Other/Unaffiliated,5691,95.26280549045866
+2022,arkansas,Newton,Republican,198,3.3143622363575496
+2022,arkansas,Ouachita,Democratic,777,5.1806907587678355
+2022,arkansas,Ouachita,Other/Unaffiliated,13784,91.90558741165489
+2022,arkansas,Ouachita,Republican,437,2.913721829577277
+2022,arkansas,Perry,Democratic,219,3.4154709918902055
+2022,arkansas,Perry,Other/Unaffiliated,5830,90.92326887086712
+2022,arkansas,Perry,Republican,363,5.66126013724267
+2022,arkansas,Phillips,Democratic,272,2.8321532694710534
+2022,arkansas,Phillips,Other/Unaffiliated,9212,95.91836734693877
+2022,arkansas,Phillips,Republican,120,1.2494793835901707
+2022,arkansas,Pike,Democratic,90,1.5761821366024518
+2022,arkansas,Pike,Other/Unaffiliated,5327,93.29246935201401
+2022,arkansas,Pike,Republican,293,5.131348511383537
+2022,arkansas,Poinsett,Democratic,398,3.4107464221441424
+2022,arkansas,Poinsett,Other/Unaffiliated,10765,92.2529779758334
+2022,arkansas,Poinsett,Republican,506,4.336275602022453
+2022,arkansas,Polk,Democratic,196,1.64553773822517
+2022,arkansas,Polk,Other/Unaffiliated,10446,87.70044496683738
+2022,arkansas,Polk,Republican,1269,10.654017294937452
+2022,arkansas,Pope,Democratic,1754,4.897252624525352
+2022,arkansas,Pope,Other/Unaffiliated,29515,82.4073039982131
+2022,arkansas,Pope,Republican,4547,12.695443377261558
+2022,arkansas,Prairie,Democratic,157,3.3482618895286844
+2022,arkansas,Prairie,Other/Unaffiliated,4271,91.08551930049052
+2022,arkansas,Prairie,Republican,261,5.566218809980806
+2022,arkansas,Pulaski,Democratic,24875,10.441020302800082
+2022,arkansas,Pulaski,Other/Unaffiliated,200884,84.31895165860067
+2022,arkansas,Pulaski,Republican,12484,5.240028038599245
+2022,arkansas,Randolph,Democratic,94,0.9127099718419265
+2022,arkansas,Randolph,Other/Unaffiliated,9874,95.8733857656083
+2022,arkansas,Randolph,Republican,331,3.213904262549762
+2022,arkansas,Saline,Democratic,2978,3.8585625623550444
+2022,arkansas,Saline,Other/Unaffiliated,68526,88.78840098990658
+2022,arkansas,Saline,Republican,5675,7.353036447738375
+2022,arkansas,Scott,Democratic,492,9.555253447271316
+2022,arkansas,Scott,Other/Unaffiliated,4168,80.94775684598952
+2022,arkansas,Scott,Republican,489,9.496989706739173
+2022,arkansas,Searcy,Democratic,49,0.8654185800070647
+2022,arkansas,Searcy,Other/Unaffiliated,5408,95.51395266690216
+2022,arkansas,Searcy,Republican,205,3.620628753090781
+2022,arkansas,Sebastian,Democratic,2962,4.24945841642397
+2022,arkansas,Sebastian,Other/Unaffiliated,60877,87.33770425950102
+2022,arkansas,Sebastian,Republican,5864,8.412837324075003
+2022,arkansas,Sevier,Democratic,361,4.838493499530894
+2022,arkansas,Sevier,Other/Unaffiliated,6675,89.46521913952553
+2022,arkansas,Sevier,Republican,425,5.696287360943574
+2022,arkansas,Sharp,Democratic,159,1.4508623049548317
+2022,arkansas,Sharp,Other/Unaffiliated,10204,93.11068528150379
+2022,arkansas,Sharp,Republican,596,5.438452413541381
+2022,arkansas,St Francis,Democratic,256,2.6405363589479114
+2022,arkansas,St Francis,Other/Unaffiliated,9316,96.09076843733884
+2022,arkansas,St Francis,Republican,123,1.2686952037132544
+2022,arkansas,Stone,Democratic,310,3.3879781420765025
+2022,arkansas,Stone,Other/Unaffiliated,7758,84.78688524590164
+2022,arkansas,Stone,Republican,1082,11.825136612021858
+2022,arkansas,Union,Democratic,147,0.5596375680511668
+2022,arkansas,Union,Other/Unaffiliated,25909,98.63707313358967
+2022,arkansas,Union,Republican,211,0.803289298359158
+2022,arkansas,Van Buren,Democratic,500,4.5380286803412595
+2022,arkansas,Van Buren,Other/Unaffiliated,9452,85.78689417317118
+2022,arkansas,Van Buren,Republican,1066,9.675077146487565
+2022,arkansas,Washington,Democratic,9506,6.837914241938152
+2022,arkansas,Washington,Other/Unaffiliated,117766,84.71216164696912
+2022,arkansas,Washington,Republican,11747,8.449924111092729
+2022,arkansas,White,Democratic,1894,4.275781108903739
+2022,arkansas,White,Other/Unaffiliated,38771,87.52709048221058
+2022,arkansas,White,Republican,3631,8.197128408885678
+2022,arkansas,Woodruff,Democratic,189,4.754716981132075
+2022,arkansas,Woodruff,Other/Unaffiliated,3695,92.95597484276729
+2022,arkansas,Woodruff,Republican,91,2.289308176100629
+2022,arkansas,Yell,Democratic,418,4.247967479674797
+2022,arkansas,Yell,Other/Unaffiliated,8545,86.83943089430895
+2022,arkansas,Yell,Republican,877,8.91260162601626
 2022,california,Alameda,Democratic,562093,60.36675866957353
 2022,california,Alameda,Other/Unaffiliated,268060,28.78867612470869
 2022,california,Alameda,Republican,100977,10.844565205717783
@@ -21267,9 +21720,6 @@ year,state,geography_standardized,party,total_voters,percent
 2022,delaware,Sussex,Democratic,70035,35.59068803073499
 2022,delaware,Sussex,Other/Unaffiliated,47696,24.238358767957962
 2022,delaware,Sussex,Republican,79048,40.17095320130705
-2022,districtofcolumbia,District of Columbia,Democratic,395102,76.85224447876507
-2022,districtofcolumbia,District of Columbia,Other/Unaffiliated,91683,17.833481811144004
-2022,districtofcolumbia,District of Columbia,Republican,27321,5.314273710090915
 2022,florida,Alachua,Democratic,93911,48.518273592411575
 2022,florida,Alachua,Other/Unaffiliated,48370,24.989925500366816
 2022,florida,Alachua,Republican,51277,26.49180090722161
@@ -22887,6 +23337,48 @@ year,state,geography_standardized,party,total_voters,percent
 2022,maryland,WORCESTER,Democratic,13954,32.744338847823535
 2022,maryland,WORCESTER,Other/Unaffiliated,9315,21.858500527983104
 2022,maryland,WORCESTER,Republican,19346,45.39716062419336
+2022,massachusetts,Barnstable,Democratic,44345,23.73497329179914
+2022,massachusetts,Barnstable,Other/Unaffiliated,118523,63.437597011250624
+2022,massachusetts,Barnstable,Republican,23966,12.827429696950235
+2022,massachusetts,Berkshire,Democratic,30285,32.13160323809321
+2022,massachusetts,Berkshire,Other/Unaffiliated,56770,60.23150456749388
+2022,massachusetts,Berkshire,Republican,7198,7.63689219441291
+2022,massachusetts,Bristol,Democratic,101528,25.648099027409373
+2022,massachusetts,Bristol,Other/Unaffiliated,254081,64.1861816344575
+2022,massachusetts,Bristol,Republican,40241,10.165719338133131
+2022,massachusetts,Dukes,Democratic,16769,69.84173261141191
+2022,massachusetts,Dukes,Other/Unaffiliated,1188,4.947938359017076
+2022,massachusetts,Dukes,Republican,6053,25.21032902957101
+2022,massachusetts,Essex,Democratic,570595,73.12001988840962
+2022,massachusetts,Essex,Other/Unaffiliated,53793,6.893409913962125
+2022,massachusetts,Essex,Republican,155966,19.986570197628257
+2022,massachusetts,Franklin,Democratic,15479,28.25408414712056
+2022,massachusetts,Franklin,Other/Unaffiliated,35196,64.24386237108698
+2022,massachusetts,Franklin,Republican,4110,7.502053481792462
+2022,massachusetts,Hampden,Democratic,101010,29.792856911111045
+2022,massachusetts,Hampden,Other/Unaffiliated,200274,59.070731858388804
+2022,massachusetts,Hampden,Republican,37757,11.136411230500146
+2022,massachusetts,Hampshire,Democratic,37141,34.8728686246526
+2022,massachusetts,Hampshire,Other/Unaffiliated,61354,57.60722601968001
+2022,massachusetts,Hampshire,Republican,8009,7.519905355667393
+2022,massachusetts,Middlesex,Democratic,348712,32.206320238209585
+2022,massachusetts,Middlesex,Other/Unaffiliated,652705,60.28248598006546
+2022,massachusetts,Middlesex,Republican,81327,7.511193781724951
+2022,massachusetts,Nantucket,Democratic,2622,27.85805354866128
+2022,massachusetts,Nantucket,Other/Unaffiliated,5774,61.347216319592015
+2022,massachusetts,Nantucket,Republican,1016,10.794730131746705
+2022,massachusetts,Norfolk,Democratic,151854,29.716153146189445
+2022,massachusetts,Norfolk,Other/Unaffiliated,313531,61.354559063823956
+2022,massachusetts,Norfolk,Republican,45630,8.929287789986596
+2022,massachusetts,Plymouth,Democratic,93643,23.925568418443866
+2022,massachusetts,Plymouth,Other/Unaffiliated,252206,64.43804564721393
+2022,massachusetts,Plymouth,Republican,45544,11.636385934342208
+2022,massachusetts,Suffolk,Democratic,221379,43.97780638394241
+2022,massachusetts,Suffolk,Other/Unaffiliated,257119,51.07769752159368
+2022,massachusetts,Suffolk,Republican,24890,4.944496094463913
+2022,massachusetts,Worcester,Democratic,128590,22.48128016895489
+2022,massachusetts,Worcester,Other/Unaffiliated,380855,66.5845552433884
+2022,massachusetts,Worcester,Republican,62542,10.934164587656712
 2022,nebraska,Adams,Democratic,4045,20.825825052772487
 2022,nebraska,Adams,Other/Unaffiliated,4080,21.006023786232817
 2022,nebraska,Adams,Republican,11298,58.1681511609947
@@ -24396,9 +24888,6 @@ year,state,geography_standardized,party,total_voters,percent
 2022,southdakota,Ziebach,Democratic,796,49.56413449564134
 2022,southdakota,Ziebach,Other/Unaffiliated,390,24.283935242839352
 2022,southdakota,Ziebach,Republican,420,26.1519302615193
-2022,utah,Utah,Democratic,271132,14.186078878055977
-2022,utah,Utah,Other/Unaffiliated,677862,35.46687148856196
-2022,utah,Utah,Republican,962260,50.347049633382056
 2022,westvirginia,-- 1 Of 1 --,Democratic,0,NA
 2022,westvirginia,-- 1 Of 1 --,Other/Unaffiliated,0,NA
 2022,westvirginia,-- 1 Of 1 --,Republican,0,NA
@@ -24912,9 +25401,6 @@ year,state,geography_standardized,party,total_voters,percent
 2023,delaware,Sussex,Democratic,69217,34.74347841363698
 2023,delaware,Sussex,Other/Unaffiliated,51504,25.85243671664416
 2023,delaware,Sussex,Republican,78502,39.40408486971886
-2023,districtofcolumbia,District of Columbia,Democratic,346138,77.52129305923535
-2023,districtofcolumbia,District of Columbia,Other/Unaffiliated,78238,17.52223369398464
-2023,districtofcolumbia,District of Columbia,Republican,22131,4.956473246780005
 2023,florida,Alachua,Democratic,87385,47.59894545335701
 2023,florida,Alachua,Other/Unaffiliated,47098,25.65446166919046
 2023,florida,Alachua,Republican,49103,26.746592877452528
@@ -26532,6 +27018,48 @@ year,state,geography_standardized,party,total_voters,percent
 2023,maryland,WORCESTER,Democratic,13673,31.982129491017965
 2023,maryland,WORCESTER,Other/Unaffiliated,9702,22.6936751497006
 2023,maryland,WORCESTER,Republican,19377,45.32419535928144
+2023,massachusetts,Barnstable,Democratic,43269,11.672304679280709
+2023,massachusetts,Barnstable,Other/Unaffiliated,304240,82.07219893282402
+2023,massachusetts,Barnstable,Republican,23189,6.255496387895268
+2023,massachusetts,Berkshire,Democratic,29163,15.731725079163002
+2023,massachusetts,Berkshire,Other/Unaffiliated,149343,80.56177411437233
+2023,massachusetts,Berkshire,Republican,6871,3.706500806464664
+2023,massachusetts,Bristol,Democratic,97922,12.426208205799794
+2023,massachusetts,Bristol,Other/Unaffiliated,650931,82.60252173780627
+2023,massachusetts,Bristol,Republican,39175,4.971270056393935
+2023,massachusetts,Dukes,Democratic,5838,17.91072250345145
+2023,massachusetts,Dukes,Other/Unaffiliated,25616,78.58874060438717
+2023,massachusetts,Dukes,Republican,1141,3.5005368921613744
+2023,massachusetts,Essex,Democratic,150585,13.50373407369146
+2023,massachusetts,Essex,Other/Unaffiliated,912516,81.83001893939394
+2023,massachusetts,Essex,Republican,52035,4.6662469869146
+2023,massachusetts,Franklin,Democratic,14765,13.829179428100444
+2023,massachusetts,Franklin,Other/Unaffiliated,88113,82.52830930905617
+2023,massachusetts,Franklin,Republican,3889,3.6425112628433878
+2023,massachusetts,Hampden,Democratic,98295,14.53951903250332
+2023,massachusetts,Hampden,Other/Unaffiliated,541207,80.0538122694341
+2023,massachusetts,Hampden,Republican,36552,5.406668698062581
+2023,massachusetts,Hampshire,Democratic,35820,17.110756561034098
+2023,massachusetts,Hampshire,Other/Unaffiliated,165787,79.19433271870909
+2023,massachusetts,Hampshire,Republican,7735,3.6949107202568046
+2023,massachusetts,Middlesex,Democratic,336559,15.783804013120067
+2023,massachusetts,Middlesex,Other/Unaffiliated,1717460,80.54472481904568
+2023,massachusetts,Middlesex,Republican,78287,3.67147116783426
+2023,massachusetts,Nantucket,Democratic,2537,13.527059450813116
+2023,massachusetts,Nantucket,Other/Unaffiliated,15223,81.16768861636898
+2023,massachusetts,Nantucket,Republican,995,5.305251932817915
+2023,massachusetts,Norfolk,Democratic,146580,14.587571206216388
+2023,massachusetts,Norfolk,Other/Unaffiliated,814550,81.06362481937207
+2023,massachusetts,Norfolk,Republican,43698,4.348803974411541
+2023,massachusetts,Plymouth,Democratic,90794,11.711425844232902
+2023,massachusetts,Plymouth,Other/Unaffiliated,640369,82.6005469132936
+2023,massachusetts,Plymouth,Republican,44097,5.688027242473493
+2023,massachusetts,Suffolk,Democratic,211251,21.53690720262132
+2023,massachusetts,Suffolk,Other/Unaffiliated,746217,76.07635600313596
+2023,massachusetts,Suffolk,Republican,23411,2.386736794242715
+2023,massachusetts,Worcester,Democratic,123172,10.89692719958738
+2023,massachusetts,Worcester,Other/Unaffiliated,946907,83.77209628632876
+2023,massachusetts,Worcester,Republican,60258,5.330976514083853
 2023,nebraska,Adams,Democratic,3835,20.144980826810947
 2023,nebraska,Adams,Other/Unaffiliated,4009,21.05899038714083
 2023,nebraska,Adams,Republican,11193,58.796028786048225
@@ -28038,9 +28566,6 @@ year,state,geography_standardized,party,total_voters,percent
 2023,southdakota,Ziebach,Democratic,762,48.19734345351044
 2023,southdakota,Ziebach,Other/Unaffiliated,393,24.857685009487664
 2023,southdakota,Ziebach,Republican,426,26.944971537001898
-2023,utah,Utah,Democratic,269689,14.019774042137975
-2023,utah,Utah,Other/Unaffiliated,692561,36.002761441501576
-2023,utah,Utah,Republican,961383,49.97746451636045
 2023,westvirginia,-- 1 Of 1 --,Democratic,0,NA
 2023,westvirginia,-- 1 Of 1 --,Other/Unaffiliated,0,NA
 2023,westvirginia,-- 1 Of 1 --,Republican,0,NA
@@ -28728,9 +29253,6 @@ year,state,geography_standardized,party,total_voters,percent
 2024,delaware,Sussex,Democratic,70182,33.69792767011735
 2024,delaware,Sussex,Other/Unaffiliated,57920,27.810321316764934
 2024,delaware,Sussex,Republican,80166,38.491751013117714
-2024,districtofcolumbia,District of Columbia,Democratic,361150,75.73501656670722
-2024,districtofcolumbia,District of Columbia,Other/Unaffiliated,91591,19.207104810636245
-2024,districtofcolumbia,District of Columbia,Republican,24119,5.057878622656545
 2024,florida,Alachua,Democratic,72850,47.2171991159333
 2024,florida,Alachua,Other/Unaffiliated,37832,24.52053640293738
 2024,florida,Alachua,Republican,43605,28.262264481129325
@@ -30348,6 +30870,48 @@ year,state,geography_standardized,party,total_voters,percent
 2024,maryland,WORCESTER,Democratic,13802,31.226244343891402
 2024,maryland,WORCESTER,Other/Unaffiliated,10195,23.06561085972851
 2024,maryland,WORCESTER,Republican,20203,45.70814479638009
+2024,massachusetts,Barnstable,Democratic,42982,21.977696079684616
+2024,massachusetts,Barnstable,Other/Unaffiliated,129185,66.05529449662782
+2024,massachusetts,Barnstable,Republican,23404,11.96700942368756
+2024,massachusetts,Berkshire,Democratic,28450,28.42299815175583
+2024,massachusetts,Berkshire,Other/Unaffiliated,64541,64.47974424296919
+2024,massachusetts,Berkshire,Republican,7104,7.097257605274988
+2024,massachusetts,Bristol,Democratic,95553,21.9500093034795
+2024,massachusetts,Bristol,Other/Unaffiliated,297918,68.43639521180921
+2024,massachusetts,Bristol,Republican,41850,9.613595484711283
+2024,massachusetts,Dukes,Democratic,17192,71.07069036792063
+2024,massachusetts,Dukes,Other/Unaffiliated,1183,4.890450599421248
+2024,massachusetts,Dukes,Republican,5815,24.038859032658124
+2024,massachusetts,Essex,Democratic,604394,74.67379311793363
+2024,massachusetts,Essex,Other/Unaffiliated,56115,6.933093149192159
+2024,massachusetts,Essex,Republican,148870,18.393113732874216
+2024,massachusetts,Franklin,Democratic,14782,25.589447079596994
+2024,massachusetts,Franklin,Other/Unaffiliated,38927,67.38739050652633
+2024,massachusetts,Franklin,Republican,4057,7.023162413876675
+2024,massachusetts,Hampden,Democratic,91132,25.166868722574016
+2024,massachusetts,Hampden,Other/Unaffiliated,233601,64.51088202236332
+2024,massachusetts,Hampden,Republican,37378,10.322249255062674
+2024,massachusetts,Hampshire,Democratic,36202,32.12957621477701
+2024,massachusetts,Hampshire,Other/Unaffiliated,68466,60.76414466385622
+2024,massachusetts,Hampshire,Republican,8007,7.106279121366763
+2024,massachusetts,Middlesex,Democratic,336093,29.421193154462294
+2024,massachusetts,Middlesex,Other/Unaffiliated,725784,63.534293342670814
+2024,massachusetts,Middlesex,Republican,80473,7.044513502866898
+2024,massachusetts,Nantucket,Democratic,2530,25.159108989657913
+2024,massachusetts,Nantucket,Other/Unaffiliated,6513,64.76730310262529
+2024,massachusetts,Nantucket,Republican,1013,10.073587907716785
+2024,massachusetts,Norfolk,Democratic,144801,27.07456485603648
+2024,massachusetts,Norfolk,Other/Unaffiliated,345442,64.58996714800972
+2024,massachusetts,Norfolk,Republican,44580,8.3354679959538025
+2024,massachusetts,Plymouth,Democratic,90067,21.626235680275457
+2024,massachusetts,Plymouth,Other/Unaffiliated,280820,67.42846440688547
+2024,massachusetts,Plymouth,Republican,45584,10.94529991283907
+2024,massachusetts,Suffolk,Democratic,193912,38.69054863753449
+2024,massachusetts,Suffolk,Other/Unaffiliated,284490,56.76324405860487
+2024,massachusetts,Suffolk,Republican,22785,4.546207303860634
+2024,massachusetts,Worcester,Democratic,121748,19.60145995037972
+2024,massachusetts,Worcester,Other/Unaffiliated,436001,70.19627541992894
+2024,massachusetts,Worcester,Republican,63368,10.202264629691346
 2024,nebraska,Adams,Democratic,3767,19.401524515863205
 2024,nebraska,Adams,Other/Unaffiliated,4064,20.93119077049856
 2024,nebraska,Adams,Republican,11585,59.66728471363824
@@ -31854,9 +32418,6 @@ year,state,geography_standardized,party,total_voters,percent
 2024,southdakota,Ziebach,Democratic,751,46.674953387197014
 2024,southdakota,Ziebach,Other/Unaffiliated,423,26.289620882535736
 2024,southdakota,Ziebach,Republican,435,27.03542573026725
-2024,utah,Utah,Democratic,294295,14.177207018679738
-2024,utah,Utah,Other/Unaffiliated,744517,35.865956397242165
-2024,utah,Utah,Republican,1037020,49.9568365840781
 2024,westvirginia,-- 1 Of 1 --,Democratic,0,NA
 2024,westvirginia,-- 1 Of 1 --,Other/Unaffiliated,0,NA
 2024,westvirginia,-- 1 Of 1 --,Republican,0,NA
@@ -32547,9 +33108,6 @@ year,state,geography_standardized,party,total_voters,percent
 2025,delaware,Sussex,Democratic,67688,31.410036288039795
 2025,delaware,Sussex,Other/Unaffiliated,68953,31.997048696507623
 2025,delaware,Sussex,Republican,78857,36.59291501545258
-2025,districtofcolumbia,District of Columbia,Democratic,357182,75.49102283655115
-2025,districtofcolumbia,District of Columbia,Other/Unaffiliated,91617,19.363408680214313
-2025,districtofcolumbia,District of Columbia,Republican,24346,5.145568483234526
 2025,florida,Alachua,Democratic,78894,45.348937466589256
 2025,florida,Alachua,Other/Unaffiliated,45670,26.251501687062785
 2025,florida,Alachua,Republican,49407,28.399560846347953
@@ -34167,6 +34725,48 @@ year,state,geography_standardized,party,total_voters,percent
 2025,maryland,WORCESTER,Democratic,13535,30.490414723705257
 2025,maryland,WORCESTER,Other/Unaffiliated,10513,23.6827284809984
 2025,maryland,WORCESTER,Republican,20343,45.826856795296344
+2025,massachusetts,Barnstable,Democratic,42512,21.627341452743607
+2025,massachusetts,Barnstable,Other/Unaffiliated,130873,66.57967298515511
+2025,massachusetts,Barnstable,Republican,23181,11.79298556210128
+2025,massachusetts,Berkshire,Democratic,27402,27.84105341231216
+2025,massachusetts,Berkshire,Other/Unaffiliated,64135,65.16261442955407
+2025,massachusetts,Berkshire,Republican,6886,6.99633215813377
+2025,massachusetts,Bristol,Democratic,91386,21.397413653828593
+2025,massachusetts,Bristol,Other/Unaffiliated,295199,69.11884876454322
+2025,massachusetts,Bristol,Republican,40504,9.483737581628185
+2025,massachusetts,Dukes,Democratic,5637,33.563560583507
+2025,massachusetts,Dukes,Other/Unaffiliated,10052,59.85114617445668
+2025,massachusetts,Dukes,Republican,1106,6.585293242036321
+2025,massachusetts,Essex,Democratic,144448,24.47371051664049
+2025,massachusetts,Essex,Other/Unaffiliated,393423,66.65734806012026
+2025,massachusetts,Essex,Republican,52346,8.86894142323925
+2025,massachusetts,Franklin,Democratic,14544,25.038304612047448
+2025,massachusetts,Franklin,Other/Unaffiliated,39521,68.03759877425242
+2025,massachusetts,Franklin,Republican,4022,6.92409661370014
+2025,massachusetts,Hampden,Democratic,89003,24.698151586039632
+2025,massachusetts,Hampden,Other/Unaffiliated,234756,65.14431281790861
+2025,massachusetts,Hampden,Republican,36604,10.157535596051758
+2025,massachusetts,Hampshire,Democratic,35290,31.54808199461832
+2025,massachusetts,Hampshire,Other/Unaffiliated,68695,61.41103691188171
+2025,massachusetts,Hampshire,Republican,7876,7.040881093499969
+2025,massachusetts,Middlesex,Democratic,318277,28.61379818757192
+2025,massachusetts,Middlesex,Other/Unaffiliated,716470,64.41221950517837
+2025,massachusetts,Middlesex,Republican,77573,6.973982307249712
+2025,massachusetts,Nantucket,Democratic,2462,24.602778055361245
+2025,massachusetts,Nantucket,Other/Unaffiliated,6548,65.43419606275607
+2025,massachusetts,Nantucket,Republican,997,9.963025881882682
+2025,massachusetts,Norfolk,Democratic,142374,26.63346852037533
+2025,massachusetts,Norfolk,Other/Unaffiliated,348286,65.15279627661963
+2025,massachusetts,Norfolk,Republican,43908,8.213735203005044
+2025,massachusetts,Plymouth,Democratic,87941,21.12564740700881
+2025,massachusetts,Plymouth,Other/Unaffiliated,283398,68.07935119968482
+2025,massachusetts,Plymouth,Republican,44937,10.795001393306364
+2025,massachusetts,Suffolk,Democratic,183302,37.75748137894667
+2025,massachusetts,Suffolk,Other/Unaffiliated,280501,57.77902742073693
+2025,massachusetts,Suffolk,Republican,21669,4.463491200316393
+2025,massachusetts,Worcester,Democratic,116015,19.02596380286402
+2025,massachusetts,Worcester,Other/Unaffiliated,431979,70.84270842216435
+2025,massachusetts,Worcester,Republican,61778,10.131327774971629
 2025,nebraska,Adams,Democratic,3639,18.888196823419495
 2025,nebraska,Adams,Other/Unaffiliated,4059,21.06820305200872
 2025,nebraska,Adams,Republican,11568,60.04360012457178
@@ -35670,9 +36270,6 @@ year,state,geography_standardized,party,total_voters,percent
 2025,southdakota,Ziebach,Democratic,725,45.42606516290727
 2025,southdakota,Ziebach,Other/Unaffiliated,440,27.56892230576441
 2025,southdakota,Ziebach,Republican,431,27.00501253132832
-2025,utah,Utah,Democratic,286576,13.983682710699927
-2025,utah,Utah,Other/Unaffiliated,737491,35.98640551196471
-2025,utah,Utah,Republican,1025293,50.029911777335364
 2025,westvirginia,-- 1 Of 1 --,Democratic,0,NA
 2025,westvirginia,-- 1 Of 1 --,Other/Unaffiliated,0,NA
 2025,westvirginia,-- 1 Of 1 --,Republican,0,NA
@@ -36162,9 +36759,6 @@ year,state,geography_standardized,party,total_voters,percent
 2026,delaware,Sussex,Democratic,67402,31.093786040503762
 2026,delaware,Sussex,Other/Unaffiliated,70701,32.61567560086728
 2026,delaware,Sussex,Republican,78667,36.29053835862896
-2026,districtofcolumbia,District of Columbia,Democratic,358632,75.33241189246868
-2026,districtofcolumbia,District of Columbia,Other/Unaffiliated,92931,19.520612688156685
-2026,districtofcolumbia,District of Columbia,Republican,24503,5.146975419374625
 2026,florida,Alachua,Democratic,73186,44.62316092409563
 2026,florida,Alachua,Other/Unaffiliated,42739,26.05893579010908
 2026,florida,Alachua,Republican,48084,29.317903285795293
